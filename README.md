@@ -33,4 +33,8 @@ sudo pacman -Sy && sudo pacman -S archlinuxcn-keyring
 # i started github
 # stash practice
 # reset practice
+
 # push rejected pracice
+
+# remote change
+
