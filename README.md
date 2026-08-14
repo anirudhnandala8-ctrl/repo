@@ -31,3 +31,5 @@ sudo pacman -Sy && sudo pacman -S archlinuxcn-keyring
 * If there is something wrong with provided packages, please submit issues of desired type.
 * Please contact us via issues or email.
 # i started github
+# stash practice
+# reset practice
